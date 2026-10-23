@@ -86,4 +86,4 @@ public class Sarah {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:b197fc,50:3b5bdb,100:0a0a0f&section=footer&text=obrigada%20por%20passar%20por%20aqui&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:b197fc,50:3b5bdb,100:0a0a0f&section=footer&text=Obrigada%20por%20passar%20por%20aqui!&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%"/>
